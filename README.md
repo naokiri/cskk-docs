@@ -4,6 +4,8 @@
 
 [honkit](https://github.com/honkit/honkit) を使用して静的なページを生成している。 
 
+[CSKK Docs](https://naokiri.github.io/cskk-docs/)としてgithub pagesに公開している。
+
 # 開発手順
 
     # nvm use
