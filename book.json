@@ -1,0 +1,7 @@
+{
+  "title": "CSKK マニュアル",
+  "root": "./docs",
+  "structure": {
+    "readme": "README.md"
+  }
+}
