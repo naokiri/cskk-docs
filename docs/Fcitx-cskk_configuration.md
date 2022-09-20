@@ -40,6 +40,10 @@ Not set - fcitx5の設定依存
 ## Dictionary
 辞書設定
 
+![辞書設定画面スクリーンショット](img/fcitx5-cskk-dictionary-config.png)
+
+上から順に優先して候補を探します。
+
 ### Type
 System - システム辞書。読み込み可能だが書き込みをしない辞書
 
@@ -49,5 +53,4 @@ User - ユーザ辞書。書き込みをする辞書。[CSKKの設定](CSKK_conf
 辞書ファイルの文字コード。
 UTF-8とeuc-jpは対応しています。他のものも多くの場合対応していますが、動作を保証しません。
 
-
-過去の同様なアドオンから乗り変える際の互換性のため、"$FCITX_CONFIG_DIR"という文字列が行頭にある時のみFcitx5のアドオン標準設定ディレクトリに置き換えられます。新しく設定する時に使うことは推奨しません。Fcitx5のインストール時の設定に依存し、通常、XDG Data Directory内の fcitx5/cskk/ (例えば.local/share/fcitx5/cskk/など)になります。
+過去の同様なアドオンから乗り変える際の互換性のため、"$FCITX_CONFIG_DIR"という文字列が行頭にある時のみFcitx5のアドオン標準設定ディレクトリに置き換えられます。新しく設定する時に使うことは推奨しません。Fcitx5のインストール時の設定に依存し、通常、XDG Data Directory内の fcitx5/cskk/ (例えば $HOME/.local/share/fcitx5/cskk/など)になります。
