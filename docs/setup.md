@@ -40,3 +40,6 @@ Debian (Ubuntu) では`skkdic`や`skkdic-extra`という名称のパッケージ
 
 ## SKK Openlab のサイトからダウンロードする
 SKK Openlabが辞書をgithubで公開しています。[辞書](https://skk-dev.github.io/dict/)ページから必要な辞書をダウンロードできます。
+
+## 公開されている辞書をダウンロードする
+[Github](https://github.com/search?q=SKK%E8%BE%9E%E6%9B%B8) などで多くの有志が目的に沿った辞書を公開しています。
