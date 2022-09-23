@@ -14,7 +14,12 @@ Fcitx5-cskkの前提パッケージ
     
 
 ## 本体のインストール
-パッケージのインストールは各プロジェクトのリリースに含まれている.deb拡張子のパッケージをダウンロードして
+debパッケージを各プロジェクトのリリースページからダウンロードします。
+
+[CSKK](https://github.com/naokiri/cskk/releases)
+[Fcitx5-cskk](https://github.com/naokiri/fcitx5-cskk/releases)
+
+Assets内の.deb拡張子のパッケージをダウンロードして
 
     sudo dpkg -i libcskk_{バージョン}_amd64.deb
     sudo dpkg -i fcitx5-cskk_{バージョン}_amd64.deb

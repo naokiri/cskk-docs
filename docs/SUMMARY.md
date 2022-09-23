@@ -14,6 +14,7 @@
   * [数値変換](CSKK_numeric.md) 
   * [変換の自動開始](CSKK_auto_start.md)
   * [concat変換](CSKK_lisp.md)
+  * [Abbreviation変換](CSKK_abbrev.md)
     
 * Fcitx5-cskkについて
   * [設定](Fcitx-cskk_configuration.md)
