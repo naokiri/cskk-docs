@@ -11,6 +11,7 @@
 
 * CSKKで対応する特殊な変換
   * [かな変換](CSKK_kana_convert.md)  
+  * [厳密な送り仮名の優先](CSKK_strict_okuri_precedence.md)
   * [数値変換](CSKK_numeric.md) 
   * [変換の自動開始](CSKK_auto_start.md)
   * [concat変換](CSKK_lisp.md)

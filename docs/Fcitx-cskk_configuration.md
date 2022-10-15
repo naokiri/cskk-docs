@@ -47,7 +47,7 @@ Not set - fcitx5の設定依存
 ### Type
 System - システム辞書。読み込み可能だが書き込みをしない辞書
 
-User - ユーザ辞書。書き込みをする辞書。[CSKKの設定](CSKK_configuration.md)にある通り、ddskkとの互換性がないので他のSKKと共用する際は注意が必要。
+User - ユーザ辞書。書き込みをする辞書。
 
 ### Encoding
 辞書ファイルの文字コード。
