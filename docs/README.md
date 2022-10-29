@@ -24,4 +24,4 @@ SKKは日本語入力方式です。Simple Kana to Kanji conversion の頭文字
 
 # Fcitx5-cskk について
 
-[Fcitx5-cskk](https://github.com/naokiri/fcitx5-cskk)はFcitx5でCSKKライブラリを使うためのFcitx5のアドオンです。
+[Fcitx5-cskk](https://github.com/fcitx/fcitx5-cskk)はFcitx5でCSKKライブラリを使うためのFcitx5のアドオンです。

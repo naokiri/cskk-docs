@@ -17,7 +17,7 @@ Fcitx5-cskkの前提パッケージ
 debパッケージを各プロジェクトのリリースページからダウンロードします。
 
 [CSKK](https://github.com/naokiri/cskk/releases)
-[Fcitx5-cskk](https://github.com/naokiri/fcitx5-cskk/releases)
+[Fcitx5-cskk](https://github.com/fcitx/fcitx5-cskk/releases)
 
 Assets内の.deb拡張子のパッケージをダウンロードして
 
