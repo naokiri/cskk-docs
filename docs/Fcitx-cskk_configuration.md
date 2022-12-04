@@ -37,6 +37,15 @@ Not set - fcitx5の設定依存
 ## Candidate selection keys
 変換候補をリスト表示している時、直接確定にはどのキーを用いるか。
 
+## Show annotation when
+アノテーションをいつ表示するか。
+
+Always - 存在する時は常に表示
+
+SingleCandidate - 単候補を選択している間は表示、候補がリスト状になった時は表示しない
+
+Never - 常に表示しない
+
 ## Dictionary
 辞書設定
 
