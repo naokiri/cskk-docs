@@ -8,6 +8,7 @@
     * [設定](CSKK_configuration.md)
     * [defaultルール](CSKK_default_rules.md)
     * [azikルール](CSKK_azik_rules.md)
+    * [見出し語入力トリガーの設定](CSKK_composition_triggers.md)
 
 * CSKKで対応する特殊な変換
     * [かな変換](CSKK_kana_convert.md)
